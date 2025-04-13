@@ -1,3 +1,9 @@
+##################
+# Secret Files
+##################
+
+
+
 .streamlit/
 !e2e_playwright/.streamlit/
 lib/streamlit/static
