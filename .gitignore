@@ -2,7 +2,7 @@
 # Secret Files
 ##################
 
-
+models/*.json
 
 .streamlit/
 !e2e_playwright/.streamlit/
